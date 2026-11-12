@@ -1,4 +1,6 @@
 streamlit
+streamlit-webrtc==0.79.1
 opencv-python-headless
 numpy
-pillow
+av
+streamlit-autorefresh
